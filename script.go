@@ -4,5 +4,5 @@ type Script struct {
 	ValuePtr interface{}
 	Script string
 	Keys []string
-	Args []string
+	Argv []string
 }
